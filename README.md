@@ -32,3 +32,8 @@ This project explores which of two prepaid mobile plans offered by the fictional
 - Surf users often exceeded their included services, incurring extra charges  
 - The analysis supported allocating more advertising budget toward the Ultimate plan
 
+## Author
+
+Heather Marie Culligan  
+[LinkedIn](https://linkedin.com/in/hmc2025)  
+[GitHub](https://github.com/hmc9898)
